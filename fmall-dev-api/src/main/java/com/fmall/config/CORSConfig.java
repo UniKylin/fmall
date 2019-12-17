@@ -13,7 +13,7 @@ public class CORSConfig {
 
     @Bean
     public CorsFilter corsFilter() {
-        System.out.println("-------------------> Cors filter start");
+//        System.out.println("-------------------> Cors filter start");
         // 1. 添加cors配置信息
         CorsConfiguration config = new CorsConfiguration();
         config.addAllowedOrigin("http://localhost:9999");

@@ -15,10 +15,10 @@ public class HelloController {
 
     @GetMapping("/hello")
     public Object hello() {
-        LOGGER.debug("---> debug: hello world");
-        LOGGER.info("---> info: hello world");
-        LOGGER.warn("---> warn: hello world");
-        LOGGER.error("---> error: hello world");
+//        LOGGER.debug("---> debug: hello world");
+//        LOGGER.info("---> info: hello world");
+//        LOGGER.warn("---> warn: hello world");
+//        LOGGER.error("---> error: hello world");
         return "<h1>Hello World...</h1>";
     }
 

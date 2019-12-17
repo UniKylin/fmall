@@ -1,0 +1,14 @@
+com/fmall/pojo/bo/UserBO.class
+com/fmall/pojo/ItemsComments.class
+com/fmall/pojo/ItemsImg.class
+com/fmall/pojo/Category.class
+com/fmall/pojo/OrderStatus.class
+com/fmall/pojo/Carousel.class
+com/fmall/pojo/Orders.class
+com/fmall/pojo/UserAddress.class
+com/fmall/pojo/Student.class
+com/fmall/pojo/Users.class
+com/fmall/pojo/Items.class
+com/fmall/pojo/OrderItems.class
+com/fmall/pojo/ItemsSpec.class
+com/fmall/pojo/ItemsParam.class

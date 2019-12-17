@@ -1,0 +1,14 @@
+com/fmall/mapper/UsersMapper.class
+com/fmall/mapper/ItemsImgMapper.class
+com/fmall/mapper/ItemsSpecMapper.class
+com/fmall/my/mapper/MyMapper.class
+com/fmall/mapper/ItemsMapper.class
+com/fmall/mapper/ItemsParamMapper.class
+com/fmall/mapper/OrderItemsMapper.class
+com/fmall/mapper/CategoryMapper.class
+com/fmall/mapper/OrderStatusMapper.class
+com/fmall/mapper/ItemsCommentsMapper.class
+com/fmall/mapper/CarouselMapper.class
+com/fmall/mapper/OrdersMapper.class
+com/fmall/mapper/StudentMapper.class
+com/fmall/mapper/UserAddressMapper.class

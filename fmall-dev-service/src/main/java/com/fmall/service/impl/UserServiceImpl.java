@@ -87,6 +87,12 @@ public class UserServiceImpl implements UserService {
         Example userExample = new Example(Users.class);
         Example.Criteria userCriteria = userExample.createCriteria();
 
+        try {
+            Thread.sleep(3500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         userCriteria.andEqualTo("username", username);
         userCriteria.andEqualTo("password", password);
 

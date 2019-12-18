@@ -1,0 +1,4 @@
+2019-12-18 11:23:46 INFO  ServiceLogAspect:33 - ===> 开始执行 class com.fmall.service.impl.UserServiceImpl - queryUserForLogin
+2019-12-18 11:23:49 INFO  HikariDataSource:110 - DataSourceHikariCP - Starting...
+2019-12-18 11:23:49 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
+2019-12-18 11:23:49 ERROR ServiceLogAspect:48 - ===> 执行耗时: 3866

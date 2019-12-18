@@ -16,7 +16,7 @@ public class CORSConfig {
 //        System.out.println("-------------------> Cors filter start");
         // 1. 添加cors配置信息
         CorsConfiguration config = new CorsConfiguration();
-        config.addAllowedOrigin("http://localhost:9999");
+        config.addAllowedOrigin("http://localhost:9090");
 
         // 2. 设置请求相关信息
         config.setAllowCredentials(true);

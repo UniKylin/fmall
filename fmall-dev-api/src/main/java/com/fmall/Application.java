@@ -9,7 +9,6 @@ import tk.mybatis.spring.annotation.MapperScan;
 @MapperScan(basePackages = "com.fmall.mapper")
 @ComponentScan(basePackages = {"com.fmall", "org.n3r.idworker"})
 public class Application {
-
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }

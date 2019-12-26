@@ -1,4 +1,6 @@
 com/fmall/service/StudentService.class
 com/fmall/service/impl/StudentServiceImpl.class
+com/fmall/service/impl/CarouselServiceImpl.class
 com/fmall/service/impl/UserServiceImpl.class
 com/fmall/service/UserService.class
+com/fmall/service/CarouselService.class

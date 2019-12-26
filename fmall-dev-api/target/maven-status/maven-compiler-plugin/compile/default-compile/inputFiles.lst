@@ -1,6 +1,8 @@
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/config/Swagger.java
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/Application.java
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/controller/StudentController.java
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/controller/UserController.java
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/config/CORSConfig.java
-/Users/kylin/IdeaProjects/fmall-dev/fmall-dev-api/src/main/java/com/fmall/controller/HelloController.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/controller/StudentController.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/config/CORSConfig.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/Application.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/controller/HelloController.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/aspect/ServiceLogAspect.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/controller/IndexController.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/config/Swagger.java
+/Users/wanghongjun/Code/fmall/fmall-dev-api/src/main/java/com/fmall/controller/UserController.java

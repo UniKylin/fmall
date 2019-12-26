@@ -1,2 +1,0 @@
-2019-12-18 11:25:00 INFO  ServiceLogAspect:33 - ===> 开始执行 class com.fmall.service.impl.UserServiceImpl - queryUserForLogin
-2019-12-18 11:25:04 ERROR ServiceLogAspect:48 - ===> 执行耗时: 3508
